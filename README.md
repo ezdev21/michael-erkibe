@@ -1,10 +1,8 @@
-<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/da96f7ce-0264-49c4-8f93-48494722a330" /># Wedding website of Michael and Erkibe
+## Wedding website of Michael and Erkibe
 
 <img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/0406c351-cc52-4883-92a4-d8fc4f9a9d37" />
 
 <img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/8a12dfca-5c60-45fb-9ca3-d6502e542209" />
-
-<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/68cd18a4-88b7-41b6-8325-367ecefb738d" />
 
 <img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/c45ef10b-c997-4a62-a633-f9b5e25314fd" />
 
